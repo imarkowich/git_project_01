@@ -12,7 +12,7 @@
 *.iml
 *.jar
 *.xml
-
+*.idea
 
 # Generated files
 bin/
