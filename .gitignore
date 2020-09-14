@@ -13,6 +13,8 @@
 *.jar
 *.xml
 *.idea
+*.gitignore
+*.md
 
 # Generated files
 bin/
